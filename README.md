@@ -25,4 +25,4 @@ HTTPS加密协议：优质站点会使用HTTPS加密，保护你的个人信息�
 
 用户互动功能：选择有评论、评分等功能的站点，可以了解其他用户的观看体验和影片质量。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/july4562/46522 ）</span>
